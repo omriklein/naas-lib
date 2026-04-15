@@ -12,7 +12,7 @@
     "bin/"
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test && echo ✔"
   },
   "keywords": ["no", "naas", "excuse", "cli", "fun"],
   "author": "",
