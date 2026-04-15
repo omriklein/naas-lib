@@ -1,5 +1,5 @@
 {
-  "name": "no-as-a-service",
+  "name": "no-as-a-service-lib",
   "version": "1.0.0",
   "description": "No-as-a-Service: get a random, creative excuse to say no",
   "main": "index.js",
