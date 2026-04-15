@@ -1,5 +1,5 @@
 {
-  "name": "@omriklein/naas-lib",
+  "name": "no-as-a-service",
   "version": "1.0.0",
   "description": "No-as-a-Service: get a random, creative excuse to say no",
   "main": "index.js",
