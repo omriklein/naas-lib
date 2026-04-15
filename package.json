@@ -1,10 +1,10 @@
 {
-  "name": "naas-lib",
+  "name": "@omriklein/naas-lib",
   "version": "1.0.0",
   "description": "No-as-a-Service: get a random, creative excuse to say no",
   "main": "index.js",
   "bin": {
-    "naas": "./bin/naas.js"
+    "naas": "bin/naas.js"
   },
   "files": [
     "index.js",
@@ -14,14 +14,24 @@
   "scripts": {
     "test": "node test && echo ✔"
   },
-  "keywords": ["no", "naas", "excuse", "cli", "fun"],
-  "author": "",
+  "keywords": [
+    "no",
+    "naas",
+    "excuse",
+    "cli",
+    "fun"
+  ],
+  "author": "omri klein",
   "license": "MIT",
   "engines": {
     "node": ">=14"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/omriklein/naas-lib"
-  }
+    "url": "git+https://github.com/omriklein/naas-lib.git"
+  },
+  "bugs": {
+    "url": "https://github.com/omriklein/naas-lib/issues"
+  },
+  "homepage": "https://github.com/omriklein/naas-lib#readme"
 }
