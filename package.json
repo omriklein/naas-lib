@@ -1,0 +1,27 @@
+{
+  "name": "naas-lib",
+  "version": "1.0.0",
+  "description": "No-as-a-Service: get a random, creative excuse to say no",
+  "main": "index.js",
+  "bin": {
+    "naas": "./bin/naas.js"
+  },
+  "files": [
+    "index.js",
+    "reasons.json",
+    "bin/"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["no", "naas", "excuse", "cli", "fun"],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omriklein/naas-lib"
+  }
+}
